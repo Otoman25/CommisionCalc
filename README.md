@@ -7,8 +7,6 @@ Email: gbrichards1996{at}gmail.com
 
 Developed using NetBeans 8.2 and JDK 8.
 
-Full project build in ~/Final Build/Woods_motors_-_Commission_calc.jar
-
 ---Libraries used:  
 json-simple-1.1.1.jar - Created by Yidong Fang. Available from: https://code.google.com/archive/p/json-simple/ 
 
